@@ -1,6 +1,6 @@
 <!DOCTYPE css> 
 <css>
-html { background: url(https://s-media-cache-ak0.pinimg.com/236x/f1/08/cb/f108cb87cd245701cba66899272c80ef.jpg no-repeat center center fixed); 
+html { background: url"https://s-media-cache-ak0.pinimg.com/236x/f1/08/cb/f108cb87cd245701cba66899272c80ef.jpg" no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
