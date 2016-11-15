@@ -1,7 +1,3 @@
-
-   body { background-color: cyan; }
-
-
 footer {
       background-color: plum;
       padding: 25px; }
@@ -15,5 +11,6 @@ footer {
   @media (max-width: 600px) {
     .carousel-caption {
       display: none; }
-
+ 
+     body { background-color: cyan; }
    
