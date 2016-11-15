@@ -1,9 +1,9 @@
 
    body { background-color: AliceBlue; }
    
-   h3 { font: DarkBlue; }
+   h3 { color: DarkBlue; }
 
-p { font: DarkBlue; }
+p { color: DarkBlue; }
    
 footer {
       background-color: plum;
