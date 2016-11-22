@@ -12,6 +12,6 @@ footer {
     .carousel-caption {
       display: none; }
  
-.img3 img {  width:304px; 
-             height:228px;
+.img3 img {  width:100%; 
+             height:350px;
       border-radius: 10px;  }
